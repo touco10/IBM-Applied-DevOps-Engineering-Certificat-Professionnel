@@ -1,5 +1,5 @@
 
-<h1 align="center">Summary and Highlights</h1>
+# Summary and Highlights
 
 - Congratulations! You have completed this lesson. At this point in the course, you know:  
 - Technology is the enabler of innovation, rather than the driver of innovation. You must have an innovative business idea to leverage technology.  
