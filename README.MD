@@ -2,7 +2,8 @@
 
 
 ## Table of Content
-- Course 1: Introduction to DevOps [x] Completed
+- Course 1: Introduction to DevOps   
+[X] Completed
 - Course 2: Introduction to Cloud Computing
 - Course 3: Introduction to Agile Development and Scrum
 - Course 4: Hands-on Introduction to Linux Commands and Shell Scripting
